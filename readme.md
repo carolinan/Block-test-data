@@ -19,3 +19,5 @@ To generate the first set of images, enter the following command in the terminal
 
 Next, make your changes and run the test again. Enter the following command in the terminal:
 ```npx playwright test```
+
+The reports are printed in the terminal.
